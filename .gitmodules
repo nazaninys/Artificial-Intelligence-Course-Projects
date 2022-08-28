@@ -7,3 +7,6 @@
 [submodule "Logic-Gates"]
 	path = Logic-Gates
 	url = https://github.com/nazaninys/Logic-Gates.git
+[submodule "Comment-Classifier"]
+	path = Comment-Classifier
+	url = https://github.com/nazaninys/Comment-Classifier.git
