@@ -13,3 +13,6 @@
 [submodule "House-Price-Prediction"]
 	path = House-Price-Prediction
 	url = https://github.com/nazaninys/House-Price-Prediction.git
+[submodule "Neural-Network"]
+	path = Neural-Network
+	url = https://github.com/nazaninys/Neural-Network.git
