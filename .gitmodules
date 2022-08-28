@@ -10,3 +10,6 @@
 [submodule "Comment-Classifier"]
 	path = Comment-Classifier
 	url = https://github.com/nazaninys/Comment-Classifier.git
+[submodule "House-Price-Prediction"]
+	path = House-Price-Prediction
+	url = https://github.com/nazaninys/House-Price-Prediction.git
