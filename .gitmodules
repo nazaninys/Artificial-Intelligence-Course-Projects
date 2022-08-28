@@ -4,3 +4,6 @@
 [submodule "Snake-Game"]
 	path = Snake-Game
 	url = https://github.com/nazaninys/Snake-Game.git
+[submodule "Logic-Gates"]
+	path = Logic-Gates
+	url = https://github.com/nazaninys/Logic-Gates.git
