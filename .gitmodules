@@ -1,3 +1,6 @@
 [submodule "Click-Prediction"]
 	path = Click-Prediction
 	url = https://github.com/nazaninys/Click-Prediction.git
+[submodule "Snake-Game"]
+	path = Snake-Game
+	url = https://github.com/nazaninys/Snake-Game.git
